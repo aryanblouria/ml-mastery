@@ -1,2 +1,2 @@
 # ml-mastery
-Programs I have written while learning Machine Learning
+List of programs I have written while learning Machine Learning
